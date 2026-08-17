@@ -6,7 +6,7 @@ This folder contains the presentation files of all team members for the project.
 
 - Twinkle Mohanty
 - Vennela Pathipaka
-- Subhasri Subhasmitha
+- Subhashree Subhasmita
 - Tejasri Lakshmi Maddula
 
 Each member has added their individual PPT in this folder.
