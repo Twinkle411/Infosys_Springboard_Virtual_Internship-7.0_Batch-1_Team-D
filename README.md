@@ -197,8 +197,8 @@ The project demonstrates the practical application of **data analytics and visua
 
 * **Twinkle Mohanty**
 * **Vennela Pathipaka**
-* **Subhasri Subhasmitha**
-* **Tejasri Lakshmi**
+* **Subhashree Subhasmita**
+* **Tejasri Lakshmi Maddula**
 
 **Mentor:** Mrs. Nithyasree
 
