@@ -25,6 +25,19 @@ Here’s an overview of the files in this repository:
 * **README.md** – Complete overview and documentation of the project.
 
 ---
+## 🗂️ Dataset
+
+The dataset used in this project consists of publicly available cybersecurity incident records obtained from **Kaggle**.
+
+- **Dataset File:** `Dataset.csv` *(uploaded in this repository)*
+- **Total Records:** 10,228+ cybersecurity incidents
+- **Geographical Coverage:** 141 countries
+- **Time Coverage:** Spans multiple decades
+- **Key Features:** Attack Type, Actor Type, Attacker Country, Target Country, Asset Variety, Cloud Environment, Motive, Incident ID, Year, and Month.
+
+The dataset was analyzed and preprocessed to identify cybersecurity trends, attack patterns, affected regions, and other meaningful insights.
+
+---
 
 ## 🚀 Key Features
 
