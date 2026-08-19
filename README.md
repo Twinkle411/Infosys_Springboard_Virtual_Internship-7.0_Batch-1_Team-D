@@ -19,7 +19,6 @@ Here’s an overview of the files in this repository:
 * **Team_Members_PPT** – Individual presentation slides prepared by each team member.
 * **Cyber_Threat_Analytics_Project.pbix** – Main Power BI project file containing the data model, DAX measures, and interactive dashboards.
 * **Cyber_Threat_Analytics_Group.pptx** – Group presentation describing the complete project.
-* **Dataset.csv** – Dataset used in the project.
 * **Internship_Completion_Report.pdf** – Internship completion report.
 * **LICENSE** – License information for the repository.
 * **README.md** – Complete overview and documentation of the project.
